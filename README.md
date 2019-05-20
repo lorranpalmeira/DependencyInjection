@@ -2,7 +2,7 @@
 
 https://stackoverflow.com/questions/38138100/addtransient-addscoped-and-addsingleton-services-differences
 
-![alt text](https://prnt.sc/nr18hw)
+![Screenshot](https://prnt.sc/nr18hw)
 
 Second Request:
-![alt text](https://prnt.sc/nr18qg)
+![Screenshot](https://prnt.sc/nr18qg)
