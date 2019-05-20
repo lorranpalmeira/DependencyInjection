@@ -1,0 +1,41 @@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Dependency Injection.</h1>
+    <p>Difference between Transient, Scoped and Singleton</p>
+</div>
+
+<div>
+    <dt>Transient:</dt> @ViewBag.Transient
+    <br/>
+
+    <dt>Scoped:</dt> @ViewBag.Scoped
+    <br/>
+
+    <dt>SingleTon:</dt> @ViewBag.SingleTon
+    <br/>
+
+    <dt>SingleTon Instance ShouldBeEmpty (Guid.Empty):</dt> @ViewBag.SingletonInstance
+    <br/>
+
+    ---------------------------------------------
+    <h3>Service</h3>
+
+    <dt>Transient:</dt> @ViewBag.ServiceTransient
+    <br/>
+
+    <dt>Scoped:</dt> @ViewBag.ServiceScoped
+    <br/>
+    
+    <dt>SingleTon:</dt> @ViewBag.ServiceSingleTon
+    <br/>
+
+    <dt>SingleTon Instance ShouldBeEmpty (Guid.Empty):</dt> @ViewBag.ServiceSingletonInstanceOperation
+    <br/>  
+
+</div>
+
+
