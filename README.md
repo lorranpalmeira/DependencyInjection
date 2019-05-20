@@ -12,3 +12,9 @@ Second Request:
 <br/>
 ![Second Request](https://github.com/lorranpalmeira/DependencyInjection/blob/master/img/second_injection.png)
 <br/>
+
+
+**Startup Injection**
+<br/>
+![Startup Configuration](https://github.com/lorranpalmeira/DependencyInjection/blob/master/img/startup.png)
+<br/>
