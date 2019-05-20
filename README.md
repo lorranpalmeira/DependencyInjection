@@ -4,10 +4,10 @@ https://stackoverflow.com/questions/38138100/addtransient-addscoped-and-addsingl
 
 First Request:
 <br/>
-<img height="500" src="C:\Users\lalvespa\Downloads\first_injection.png"/>
+![First Request](C:\Users\lalvespa\Downloads\first_injection.png")
 <br/>
 
 Second Request:
 <br/>
-<img height="500" src="C:\Users\lalvespa\Downloads\second_injection.png"/>
+![Second Request](C:\Users\lalvespa\Downloads\second_injection.png"/)
 <br/>
